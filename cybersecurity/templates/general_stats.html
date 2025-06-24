@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Общая статистика</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: center; }
+    th { background-color: #f4f4f4; }
+    canvas { width: 100%; height: 400px; margin-bottom: 40px; }
+  </style>
+</head>
+<body>
+  <h1>Общая статистика</h1>
+
+  <section>
+    <h2>1. Динамика уровня зарплат по годам</h2>
+    <table>
+      <tr><th>Год</th><th>Средняя зарплата (₽)</th></tr>
+      {% for year, sal in sal_by_year.items %}
+        <tr><td>{{ year }}</td><td>{{ sal }}</td></tr>
+      {% endfor %}
+    </table>
+    <canvas id="chart-sal-year"></canvas>
+  </section>
+
+  <section>
+    <h2>2. Динамика количества вакансий по годам</h2>
+    <table>
+      <tr><th>Год</th><th>Количество вакансий</th></tr>
+      {% for year, cnt in count_by_year.items %}
+        <tr><td>{{ year }}</td><td>{{ cnt }}</td></tr>
+      {% endfor %}
+    </table>
+    <canvas id="chart-count-year"></canvas>
+  </section>
+
+  <section>
+    <h2>3. Уровень зарплат по городам</h2>
+    <table>
+      <tr><th>Город</th><th>Средняя зарплата (₽)</th></tr>
+      {% for city, sal in sal_by_city.items %}
+        <tr><td>{{ city }}</td><td>{{ sal }}</td></tr>
+      {% endfor %}
+    </table>
+    <canvas id="chart-sal-city"></canvas>
+  </section>
+
+  <section>
+    <h2>4. Доля вакансий по городам</h2>
+    <table>
+      <tr><th>Город</th><th>Доля (%)</th></tr>
+      {% for city, share in share_by_city.items %}
+        <tr><td>{{ city }}</td><td>{{ share }}</td></tr>
+      {% endfor %}
+    </table>
+    <canvas id="chart-share-city"></canvas>
+  </section>
+
+  <section>
+    <h2>5. ТОП-20 навыков по годам</h2>
+    {% for year, skills in skills_by_year.items %}
+      <h3>{{ year }}</h3>
+      <ol>
+        {% for skill in skills %}
+          <li>{{ skill }}</li>
+        {% endfor %}
+      </ol>
+    {% endfor %}
+  </section>
+
+  <script>
+    function createBarChart(ctx, labels, data, title) {
+      new Chart(ctx, {
+        type: 'bar',
+        data: { labels, datasets: [{ label: title, data }] },
+        options: { responsive: true }
+      });
+    }
+
+    // График 1
+    createBarChart(
+      document.getElementById('chart-sal-year'),
+      {{ sal_by_year.keys|list }},
+      {{ sal_by_year.values|list }},
+      'Средняя зарплата (₽)'
+    );
+
+    // График 2
+    createBarChart(
+      document.getElementById('chart-count-year'),
+      {{ count_by_year.keys|list }},
+      {{ count_by_year.values|list }},
+      'Количество вакансий'
+    );
+
+    // График 3
+    createBarChart(
+      document.getElementById('chart-sal-city'),
+      {{ sal_by_city.keys|list }},
+      {{ sal_by_city.values|list }},
+      'Средняя зарплата (₽)'
+    );
+
+    // График 4
+    new Chart(
+      document.getElementById('chart-share-city'), {
+        type: 'pie',
+        data: {
+          labels: {{ share_by_city.keys|list }},
+          datasets: [{ data: {{ share_by_city.values|list }}, label: 'Доля вакансий (%)' }]
+        },
+        options: { responsive: true }
+      }
+    );
+  </script>
+</body>
+</html>

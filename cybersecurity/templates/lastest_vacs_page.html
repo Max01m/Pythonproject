@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block title %}Последние вакансии{% endblock %}
+{% block content %}
+<div class="custom-background text-white text-primary px-5 py-3 text-center">
+    <h1 class="fw-bold text-white">Последние вакансии</h1>
+    <div class="px-2">
+        <div id="vacancies-container">
+            {% for vacancy in vacancies %}
+            <div class="card text-while">
+                <h2> <a href="https://hh.ru/vacancy/{{ vacancy.id }}">{{ vacancy.title }}</a></h2>
+                <p><strong>Компания:</strong> {{ vacancy.company }}</p>
+                <p><strong>Регион:</strong> {{ vacancy.region }}</p>
+                <p><strong>Оклад:</strong> {{ vacancy.salary_info }}</p>
+                <p><strong>Навыки:</strong> {{ vacancy.skills }}</p>
+                <p><strong>Дата публикации:</strong> {{ vacancy.published_at }}</p>
+                <p><strong>Описание:</strong> {{ vacancy.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}

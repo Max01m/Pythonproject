@@ -1,0 +1,114 @@
+{% load static %}
+
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link rel="stylesheet" 
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" 
+          integrity="sha256-PI8n5gCcz9cQqQXm3PEtDuPG8qx9oFsFctPg0S5zb8g=" 
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'base/css/style.css' %}">
+</head>
+<body class="bg-dark">
+    <button class="menu-toggle">☰</button>
+    <div class="d-flex">
+        <!-- Панель -->
+        <div class="sidebar" id="sidebar">
+            <div class="px-4 py-3  text-light">
+                <a href="/" target="_blank">
+                    <img src="{% static 'base/images/cyber.png' %}" alt="cyber" style="max-width: 200px;" class="mx-auto d-block">
+                </a>
+                
+                <div class="text-center my-3">
+                    <a href="/" class="text-decoration-none text-light fw-bold">
+                        <h3 style="font-size: 0.9rem; white-space: nowrap;">Специалист по <br>информационной безопасности </h3>
+                    </a>
+                </div>
+
+                <ul class="list-group list-group-flush mb-3">
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/" class="btn w-100 text-start {% if request.path == '/' %}btn-primary{% else %}btn-outline-primary text-while{% endif %}">
+                            Главная страница
+                        </a>
+                    </li>
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/general_stats" class="btn w-100 text-start {% if request.path == '/general_stats' %}btn-primary{% else %}btn-outline-primary{% endif %}" data-title="Общая статистика">
+                             Общая статистика
+                        </a>
+                    </li>
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/relevance" class="btn w-100 text-start {% if request.path == '/relevance' %}btn-primary{% else %}btn-outline-primary{% endif %}">
+                             Востребованность
+                        </a>
+                    </li>
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/geography" class="btn w-100 text-start {% if request.path == '/geography' %}btn-primary{% else %}btn-outline-primary{% endif %}">
+                             География
+                        </a>
+                    </li>
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/skills" class="btn w-100 text-start {% if request.path == '/skills' %}btn-primary{% else %}btn-outline-primary{% endif %}">
+                            Навыки
+                        </a>
+                    </li>
+                    <li class="list-group-item bg-transparent border-0 px-0">
+                        <a href="/latest_vacs" class="btn w-100 text-start {% if request.path == '/latest_vacs' %}btn-primary{% else %}btn-outline-primary{% endif %}">
+                            Последние вакансии
+                        </a>
+                    </li>
+                </ul>
+                
+                <footer class="mt-3 border-top pt-3">
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="https://github.com/max01m" class="text-primary">
+                            Мукумов Мухаммадёсин РИ-231002
+                        </a>
+                    </div>
+                    <div class="w-100 text-primary mt-2">2025</div>
+                </footer>
+            </div>
+        </div>
+
+        <div class="main-content" id="mainContent">
+            <header class="d-flex justify-content-between align-items-center p-3 border-bottom custom-background header-container px-5">
+                <div class="d-flex align-items-center px-6">
+                    <a href="/" class="d-flex align-items-center text-while text-decoration-none">
+                        <img src="{% static 'base/images/cyber.png' %}" alt="Логотип" style="width: 50px;" class="me-2">
+                        <span class="text-while">Специалист по информационной безопасности </span>
+                    </a>
+                </div>
+            </header>
+            
+            {% block content %}
+            <!-- Контент главной страницы -->
+            <div class="text-center custom-background  bg-white px-5 py-3" data-title="Главная страница">
+                <h1 class="fw-bold text-white">Специалист по информационной безопасности</h1>
+                <img class="img-fluid mb-4" src="{% static 'base/images/cybersec.png' %}">
+                <div class="mx-auto col-lg-8" style="text-align: justify;">
+                    {{ vac_text|safe }}
+                </div>
+            </div>
+            {% endblock %}
+            <div class="custom-background container py-4">
+                <footer class="d-flex flex-wrap py-3 my-1 border-top">
+                    <div class="d-flex align-items-center">
+                        <p class="text-white text-decoration-none">Мукумов Мухаммадёсин РИ-231002</p>
+                    </div>
+                </footer>
+            </div>
+        </div>
+
+        <div id="ground"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" 
+            crossorigin="anonymous">
+    </script>
+
+    <script src="{% static 'base/js/sidebar.js' %}"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block title %}География{% endblock %}
+{% block content %}
+    <div class="custom-background text-center text-secondary px-5 py-3">
+        <h1 class="text-white fw-bold">География</h1>
+        <div class="d-flex flex-column align-items-center mx-auto">
+            <div class="text-center mb-3">
+                <img src="{{ graph_sal_by_city_url }}" class="img-fluid mb-4">
+                <div class="mt-3">{{ data_table_java_sal_by_city|safe }}</div>
+            </div>
+
+            <div class="text-center mb-3">
+                <img src="{{ graph_java_vac_share_by_city_url }}" class="img-fluid mb-4">
+                <div class="mt-3">{{ data_table_java_vac_share_by_city|safe }}</div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

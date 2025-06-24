@@ -1,0 +1,2073 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "islice",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "islice",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "ray",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ray",
+        "description": "ray",
+        "detail": "ray",
+        "documentation": {}
+    },
+    {
+        "label": "modin.pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "modin.pandas",
+        "description": "modin.pandas",
+        "detail": "modin.pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_page.migrations.0001_initial",
+        "description": "cybersecurity.general_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='General',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('vac_pic', models.ImageField(blank=True, default='static\\\\general\\\\images\\\\cybersec.png', null=True, upload_to='', verbose_name='Картинка вакансии')),",
+        "detail": "cybersecurity.general_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_page.migrations.0002_alter_general_vac_pic_alter_general_vac_text",
+        "description": "cybersecurity.general_page.migrations.0002_alter_general_vac_pic_alter_general_vac_text",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('general_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='general',\n            name='vac_pic',\n            field=models.ImageField(blank=True, default='/General_JvmSpec7.png', null=True, upload_to='', verbose_name='Картинка вакансии'),\n        ),",
+        "detail": "cybersecurity.general_page.migrations.0002_alter_general_vac_pic_alter_general_vac_text",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralPageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.general_page.apps",
+        "description": "cybersecurity.general_page.apps",
+        "peekOfCode": "class GeneralPageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'general_page'",
+        "detail": "cybersecurity.general_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "General",
+        "kind": 6,
+        "importPath": "cybersecurity.general_page.models",
+        "description": "cybersecurity.general_page.models",
+        "peekOfCode": "class General(models.Model):\n    \"\"\"Моделька главной страницы\"\"\"\n    vac_pic = models.ImageField(\n        blank=True,\n        null=True,\n        default='/cybersec.png',\n        verbose_name='Картинка вакансии'\n    )\n    vac_text = models.TextField(\n        blank=True,",
+        "detail": "cybersecurity.general_page.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.general_page.urls",
+        "description": "cybersecurity.general_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.general_page, name='general_page'),\n]",
+        "detail": "cybersecurity.general_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "general_page",
+        "kind": 2,
+        "importPath": "cybersecurity.general_page.views",
+        "description": "cybersecurity.general_page.views",
+        "peekOfCode": "def general_page(request):\n    \"\"\"Рендер главной страницы\"\"\"\n    general_obj = General.objects.first()\n    # Доступ к default\n    default_vac_pic= General._meta.get_field('vac_pic').default\n    default_vac_text = General._meta.get_field('vac_text').default\n    content = {\n        'vac_pic': general_obj.vac_pic.url if general_obj and general_obj.vac_pic else '/media'+default_vac_pic,\n        'vac_text': general_obj.vac_text if general_obj else default_vac_text,\n    }",
+        "detail": "cybersecurity.general_page.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.migrations.0001_initial",
+        "description": "cybersecurity.general_stats_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Statistics',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('annual_salary_chart', models.ImageField(upload_to='', verbose_name='График зарплат по годам')),",
+        "detail": "cybersecurity.general_stats_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.migrations.0002_alter_statistics_options",
+        "description": "cybersecurity.general_stats_page.migrations.0002_alter_statistics_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('general_stats_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='statistics',\n            options={'verbose_name': 'Статистика', 'verbose_name_plural': 'Статистики'},\n        ),\n    ]",
+        "detail": "cybersecurity.general_stats_page.migrations.0002_alter_statistics_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.migrations.0003_remove_statistics_top_skills_chart_and_more",
+        "description": "cybersecurity.general_stats_page.migrations.0003_remove_statistics_top_skills_chart_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('general_stats_page', '0002_alter_statistics_options'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='statistics',\n            name='top_skills_chart',\n        ),\n        migrations.RemoveField(",
+        "detail": "cybersecurity.general_stats_page.migrations.0003_remove_statistics_top_skills_chart_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.migrations.0004_rename_city_salary_data_statistics_data_table_sal_by_city_and_more",
+        "description": "cybersecurity.general_stats_page.migrations.0004_rename_city_salary_data_statistics_data_table_sal_by_city_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('general_stats_page', '0003_remove_statistics_top_skills_chart_and_more'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='statistics',\n            old_name='city_salary_data',\n            new_name='data_table_sal_by_city',\n        ),",
+        "detail": "cybersecurity.general_stats_page.migrations.0004_rename_city_salary_data_statistics_data_table_sal_by_city_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralStatsPageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.apps",
+        "description": "cybersecurity.general_stats_page.apps",
+        "peekOfCode": "class GeneralStatsPageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'general_stats_page'",
+        "detail": "cybersecurity.general_stats_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Statistics",
+        "kind": 6,
+        "importPath": "cybersecurity.general_stats_page.models",
+        "description": "cybersecurity.general_stats_page.models",
+        "peekOfCode": "class Statistics(models.Model):\n    \"\"\"Моделька общей статистики\"\"\"\n    graph_sal_yearly = models.ImageField(blank=False, verbose_name='График зарплат по годам')\n    data_table_sal_yearly = models.TextField(blank=False, verbose_name='Таблица зарплат по годам')\n    graph_of_vacs_years = models.ImageField(blank=False, verbose_name='График количества вакансий по годам')\n    data_table_vacs_by_year = models.TextField(blank=False, verbose_name='Таблица количества вакансий по годам')\n    graph_sal_by_city = models.ImageField(blank=False, verbose_name='График зарплат по городам')\n    data_table_sal_by_city = models.TextField(blank=False, verbose_name='Таблица зарплат по городам')\n    graph_vac_share_cities = models.ImageField(blank=False, verbose_name='График долей вакансий по городам')\n    data_table_vac_share_by_city = models.TextField(blank=False, verbose_name='Таблица доли вакансий по городам')",
+        "detail": "cybersecurity.general_stats_page.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.general_stats_page.urls",
+        "description": "cybersecurity.general_stats_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.general_stats, name='general_stats'),\n]",
+        "detail": "cybersecurity.general_stats_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "general_stats",
+        "kind": 2,
+        "importPath": "cybersecurity.general_stats_page.views",
+        "description": "cybersecurity.general_stats_page.views",
+        "peekOfCode": "def general_stats(request):\n    stats = Statistics.objects.first()\n    content = {\n        'graph_sal_yearly_url': stats.graph_sal_yearly.url,\n        'data_table_sal_yearly': stats.data_table_sal_yearly,\n        'graph_of_vacs_years_url': stats.graph_of_vacs_years.url,\n        'data_table_vacs_by_year': stats.data_table_vacs_by_year,\n        'graph_sal_by_city_url': stats.graph_sal_by_city.url,\n        'data_table_sal_by_city': stats.data_table_sal_by_city,\n        'graph_vac_share_cities_url': stats.graph_vac_share_cities.url,",
+        "detail": "cybersecurity.general_stats_page.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.geography_page.migrations.0001_initial",
+        "description": "cybersecurity.geography_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='VacGeoStats',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('salary_graph_by_city', models.ImageField(upload_to='', verbose_name='График зарплат по городам для Java-разработчиков')),",
+        "detail": "cybersecurity.geography_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.geography_page.migrations.0002_rename_salary_table_by_city_vacgeostats_data_table_java_sal_by_city_and_more",
+        "description": "cybersecurity.geography_page.migrations.0002_rename_salary_table_by_city_vacgeostats_data_table_java_sal_by_city_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('geography_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='vacgeostats',\n            old_name='salary_table_by_city',\n            new_name='data_table_java_sal_by_city',\n        ),",
+        "detail": "cybersecurity.geography_page.migrations.0002_rename_salary_table_by_city_vacgeostats_data_table_java_sal_by_city_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "GeographyPageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.geography_page.apps",
+        "description": "cybersecurity.geography_page.apps",
+        "peekOfCode": "class GeographyPageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'geography_page'",
+        "detail": "cybersecurity.geography_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "VacGeoStats",
+        "kind": 6,
+        "importPath": "cybersecurity.geography_page.models",
+        "description": "cybersecurity.geography_page.models",
+        "peekOfCode": "class VacGeoStats(models.Model):\n    \"\"\"Моделька страницы география\"\"\"\n    graph_sal_by_city = models.ImageField(\n        blank=False,\n        verbose_name='График зарплат по городам для Java-разработчиков'\n    )\n    data_table_java_sal_by_city = models.TextField(\n        blank=False,\n        verbose_name='Таблица зарплат по городам для Java-разработчиков'\n    )",
+        "detail": "cybersecurity.geography_page.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.geography_page.urls",
+        "description": "cybersecurity.geography_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.geography, name='geography'),\n]",
+        "detail": "cybersecurity.geography_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "geography",
+        "kind": 2,
+        "importPath": "cybersecurity.geography_page.views",
+        "description": "cybersecurity.geography_page.views",
+        "peekOfCode": "def geography(request):\n    \"\"\"Рендер страницы география\"\"\"\n    vac_geo_stats = VacGeoStats.objects.first()\n    content = {\n        'graph_sal_by_city_url': vac_geo_stats.graph_sal_by_city.url,\n        'data_table_java_sal_by_city': vac_geo_stats.data_table_java_sal_by_city,\n        'graph_java_vac_share_by_city_url': vac_geo_stats.graph_java_vac_share_by_city.url,\n        'data_table_java_vac_share_by_city': vac_geo_stats.data_table_java_vac_share_by_city,\n    }\n    return render(request, 'geography_page.html', content)",
+        "detail": "cybersecurity.geography_page.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.latest_vacs_page.migrations.0001_initial",
+        "description": "cybersecurity.latest_vacs_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Vacancy',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=255)),",
+        "detail": "cybersecurity.latest_vacs_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.latest_vacs_page.migrations.0002_delete_vacancy",
+        "description": "cybersecurity.latest_vacs_page.migrations.0002_delete_vacancy",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('latest_vacs_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Vacancy',\n        ),\n    ]",
+        "detail": "cybersecurity.latest_vacs_page.migrations.0002_delete_vacancy",
+        "documentation": {}
+    },
+    {
+        "label": "LatestVacsPageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.latest_vacs_page.apps",
+        "description": "cybersecurity.latest_vacs_page.apps",
+        "peekOfCode": "class LatestVacsPageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'latest_vacs_page'",
+        "detail": "cybersecurity.latest_vacs_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.latest_vacs_page.urls",
+        "description": "cybersecurity.latest_vacs_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('/api', fetch_vacancies, name='fetch_vacancies'),\n    path('', render_vacancies, name='render_vacancies'),\n]",
+        "detail": "cybersecurity.latest_vacs_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "format_date_human_readable",
+        "kind": 2,
+        "importPath": "cybersecurity.latest_vacs_page.utils",
+        "description": "cybersecurity.latest_vacs_page.utils",
+        "peekOfCode": "def format_date_human_readable(iso_date: str) -> str:\n    \"\"\"\n    Преобразует дату из формата ISO 8601 в человеко-читаемый формат на русском языке.\n    Аргументы:\n        iso_date (str): Дата в формате ISO 8601.\n    Возвращает:\n        str: Дата в формате 'день месяц годг. часы:минуты:секунды'.\n    \"\"\"\n    months = {\n        1: 'января', 2: 'февраля', 3: 'марта', 4: 'апреля', 5: 'мая', 6: 'июня',",
+        "detail": "cybersecurity.latest_vacs_page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_html",
+        "kind": 2,
+        "importPath": "cybersecurity.latest_vacs_page.utils",
+        "description": "cybersecurity.latest_vacs_page.utils",
+        "peekOfCode": "def extract_text_from_html(html: str) -> str:\n    \"\"\"\n    Удаляет HTML-теги из предоставленного содержимого HTML.\n    Аргументы:\n        html (str): Сырой HTML-контент.\n    Возвращает:\n        str: Обычный текст, извлечённый из HTML.\n    \"\"\"\n    soup = BeautifulSoup(html, 'html.parser')\n    return soup.get_text()",
+        "detail": "cybersecurity.latest_vacs_page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_skills",
+        "kind": 2,
+        "importPath": "cybersecurity.latest_vacs_page.utils",
+        "description": "cybersecurity.latest_vacs_page.utils",
+        "peekOfCode": "def format_skills(skills: List[Dict[str, Any]]) -> str:\n    \"\"\"\n    Форматирует список навыков в строку, разделённую запятыми.\n    Аргументы:\n        skills (List[Dict[str, Any]]): Список словарей с навыками.\n    Возвращает:\n        str: Отформатированная строка с названиями навыков или сообщение по умолчанию, если навыки отсутствуют.\n    \"\"\"\n    if not skills:\n        return 'Навыки не указаны'",
+        "detail": "cybersecurity.latest_vacs_page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.relevance_page.migrations.0001_initial",
+        "description": "cybersecurity.relevance_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='VacStatistics',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('annual_salary_chart', models.ImageField(upload_to='', verbose_name='График зарплат по годам Java-программист')),",
+        "detail": "cybersecurity.relevance_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.relevance_page.migrations.0002_rename_annual_salary_data_vacstatistics_data_table_java_vac_sal_yearly_and_more",
+        "description": "cybersecurity.relevance_page.migrations.0002_rename_annual_salary_data_vacstatistics_data_table_java_vac_sal_yearly_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('relevance_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='vacstatistics',\n            old_name='annual_salary_data',\n            new_name='data_table_java_vac_sal_yearly',\n        ),",
+        "detail": "cybersecurity.relevance_page.migrations.0002_rename_annual_salary_data_vacstatistics_data_table_java_vac_sal_yearly_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "RelevancePageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.relevance_page.apps",
+        "description": "cybersecurity.relevance_page.apps",
+        "peekOfCode": "class RelevancePageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'relevance_page'",
+        "detail": "cybersecurity.relevance_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "VacStatistics",
+        "kind": 6,
+        "importPath": "cybersecurity.relevance_page.models",
+        "description": "cybersecurity.relevance_page.models",
+        "peekOfCode": "class VacStatistics(models.Model):\n    \"\"\"Моделька страницы востребованность\"\"\"\n    graph_java_vac_sal_yearly = models.ImageField(\n        blank=False,\n        verbose_name='График зарплат по годам Java-программист'\n    )\n    data_table_java_vac_sal_yearly = models.TextField(\n        blank=False,\n        verbose_name='Таблица зарплат по годам Java-программист'\n    )",
+        "detail": "cybersecurity.relevance_page.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.relevance_page.urls",
+        "description": "cybersecurity.relevance_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.relevance_page, name='relevance'),\n]",
+        "detail": "cybersecurity.relevance_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "relevance_page",
+        "kind": 2,
+        "importPath": "cybersecurity.relevance_page.views",
+        "description": "cybersecurity.relevance_page.views",
+        "peekOfCode": "def relevance_page(request):\n    \"\"\"Рендер страницы востребованность\"\"\"\n    vacstats = VacStatistics.objects.first()\n    content = {\n        'graph_java_vac_sal_yearly_url': vacstats.graph_java_vac_sal_yearly.url,\n        'data_table_java_vac_sal_yearly': vacstats.data_table_java_vac_sal_yearly,\n        'graph_of_java_vacs_years_url': vacstats.graph_of_java_vacs_years.url,\n        'data_table_java_vacs_by_year': vacstats.data_table_java_vacs_by_year,\n    }\n    return render(request, 'relevance_page.html', content)",
+        "detail": "cybersecurity.relevance_page.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.skills_page.migrations.0001_initial",
+        "description": "cybersecurity.skills_page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='SkillsStatistics',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('top20_skills_java_2015_graph', models.ImageField(upload_to='', verbose_name='График навыков за 2015 год для Java-программиста')),",
+        "detail": "cybersecurity.skills_page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cybersecurity.skills_page.migrations.0002_rename_top20_skills_java_2015_data_skillsstatistics_data_table_top20_sks_java_2015_and_more",
+        "description": "cybersecurity.skills_page.migrations.0002_rename_top20_skills_java_2015_data_skillsstatistics_data_table_top20_sks_java_2015_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('skills_page', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='skillsstatistics',\n            old_name='top20_skills_java_2015_data',\n            new_name='data_table_top20_sks_java_2015',\n        ),",
+        "detail": "cybersecurity.skills_page.migrations.0002_rename_top20_skills_java_2015_data_skillsstatistics_data_table_top20_sks_java_2015_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "SkillsPageConfig",
+        "kind": 6,
+        "importPath": "cybersecurity.skills_page.apps",
+        "description": "cybersecurity.skills_page.apps",
+        "peekOfCode": "class SkillsPageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'skills_page'",
+        "detail": "cybersecurity.skills_page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SkillsStatistics",
+        "kind": 6,
+        "importPath": "cybersecurity.skills_page.models",
+        "description": "cybersecurity.skills_page.models",
+        "peekOfCode": "class SkillsStatistics(models.Model):\n    \"\"\"\"Модель страницы навыки\"\"\"\n    graph_top20_sks_java_2015 = models.ImageField(\n        blank=False,\n        verbose_name='График навыков за 2015 год для Java-программиста'\n    )\n    data_table_top20_sks_java_2015 = models.TextField(\n        blank=False,\n        verbose_name='Таблица навыков за 2015 год для Java-программиста'\n    )",
+        "detail": "cybersecurity.skills_page.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.skills_page.urls",
+        "description": "cybersecurity.skills_page.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.skills_page, name='skills_page'),\n]",
+        "detail": "cybersecurity.skills_page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "skills_page",
+        "kind": 2,
+        "importPath": "cybersecurity.skills_page.views",
+        "description": "cybersecurity.skills_page.views",
+        "peekOfCode": "def skills_page(request):\n    \"\"\"Рендер страницы навыки\"\"\"\n    skills_vac_stats = SkillsStatistics.objects.first()\n    content = {\n        'graph_top20_sks_java_2015_url': skills_vac_stats.graph_top20_sks_java_2015.url,\n        'data_table_top20_sks_java_2015': skills_vac_stats.data_table_top20_sks_java_2015,\n        'graph_top20_sks_java_2016_url': skills_vac_stats.graph_top20_sks_java_2016.url,\n        'data_table_top20_sks_java_2016': skills_vac_stats.data_table_top20_sks_java_2016,\n        'graph_top20_sks_java_2017_url': skills_vac_stats.graph_top20_sks_java_2017.url,\n        'data_table_top20_sks_java_2017': skills_vac_stats.data_table_top20_sks_java_2017,",
+        "detail": "cybersecurity.skills_page.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.asgi",
+        "description": "cybersecurity.ulearn_vacs_project.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "cybersecurity.ulearn_vacs_project.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-v$ghmvh%_ms2ei5te@t)x#3$%ov3%5h%t(8ar-l%5@5haosxe4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\n# ALLOWED_HOSTS = [\"max01m.pythonanywhere.com\"]\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-v$ghmvh%_ms2ei5te@t)x#3$%ov3%5h%t(8ar-l%5@5haosxe4'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\n# ALLOWED_HOSTS = [\"max01m.pythonanywhere.com\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "DEBUG = True\n# ALLOWED_HOSTS = [\"max01m.pythonanywhere.com\"]\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'general_page',\n    'general_stats_page',\n    'relevance_page',",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ulearn_vacs_project.urls'",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "ROOT_URLCONF = 'ulearn_vacs_project.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / 'templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'ulearn_vacs_project.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'ru'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = '/static/'\n# STATIC_ROOT = '/home/max01m/django/static' # For pythonanywhere (python manage.py collectstatic)\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = '/static/'\n# STATIC_ROOT = '/home/max01m/django/static' # For pythonanywhere (python manage.py collectstatic)\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = '/static/'\n# STATIC_ROOT = '/home/max01m/django/static' # For pythonanywhere (python manage.py collectstatic)\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = '/static/'\n# STATIC_ROOT = '/home/max01m/django/static' # For pythonanywhere (python manage.py collectstatic)\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# STATIC_ROOT = '/home/max01m/django/static' # For pythonanywhere (python manage.py collectstatic)\nSTATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\nDEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! ",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\nDEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! \n</p>\n<p class=\"\">",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\nDEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! \n</p>\n<p class=\"\">\nИнформационная безопасность — одна из самых востребованных и стремительно развивающихся сфер IT. Её цель — защита данных, систем и инфраструктур от несанкционированного доступа, кибератак и утечек информации.\n<p class=\"\">\nКак специалист по информационной безопасности, вы отвечаете за сохранность конфиденциальности, целостности и доступности информации в самых разных отраслях — от банковской сферы и государственных структур до IT-компаний и облачных сервисов. Ваша задача — выявлять уязвимости, минимизировать риски и строить надёжную стратегию киберзащиты.",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\nDEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! \n</p>\n<p class=\"\">\nИнформационная безопасность — одна из самых востребованных и стремительно развивающихся сфер IT. Её цель — защита данных, систем и инфраструктур от несанкционированного доступа, кибератак и утечек информации.\n<p class=\"\">\nКак специалист по информационной безопасности, вы отвечаете за сохранность конфиденциальности, целостности и доступности информации в самых разных отраслях — от банковской сферы и государственных структур до IT-компаний и облачных сервисов. Ваша задача — выявлять уязвимости, минимизировать риски и строить надёжную стратегию киберзащиты.\n</p>",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')\nDEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! \n</p>\n<p class=\"\">\nИнформационная безопасность — одна из самых востребованных и стремительно развивающихся сфер IT. Её цель — защита данных, систем и инфраструктур от несанкционированного доступа, кибератак и утечек информации.\n<p class=\"\">\nКак специалист по информационной безопасности, вы отвечаете за сохранность конфиденциальности, целостности и доступности информации в самых разных отраслях — от банковской сферы и государственных структур до IT-компаний и облачных сервисов. Ваша задача — выявлять уязвимости, минимизировать риски и строить надёжную стратегию киберзащиты.\n</p>\n<p class=\"\">",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_VAC_TEXT",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.settings",
+        "description": "cybersecurity.ulearn_vacs_project.settings",
+        "peekOfCode": "DEFAULT_VAC_TEXT = r\"\"\"<p class=\"\">\nДобро пожаловать на главную страницу профессии специалиста по информационной безопасности! \n</p>\n<p class=\"\">\nИнформационная безопасность — одна из самых востребованных и стремительно развивающихся сфер IT. Её цель — защита данных, систем и инфраструктур от несанкционированного доступа, кибератак и утечек информации.\n<p class=\"\">\nКак специалист по информационной безопасности, вы отвечаете за сохранность конфиденциальности, целостности и доступности информации в самых разных отраслях — от банковской сферы и государственных структур до IT-компаний и облачных сервисов. Ваша задача — выявлять уязвимости, минимизировать риски и строить надёжную стратегию киберзащиты.\n</p>\n<p class=\"\">\nВ своей работе вы применяете современные инструменты: системы обнаружения вторжений (IDS/IPS), межсетевые экраны, средства шифрования, антивирусные решения и платформы управления инцидентами (SIEM). Вы можете проводить тесты на проникновение, аудит безопасности, следить за инцидентами и оперативно на них реагировать.</p>",
+        "detail": "cybersecurity.ulearn_vacs_project.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.urls",
+        "description": "cybersecurity.ulearn_vacs_project.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('favicon.ico', RedirectView.as_view(url='/static/base/images/favicon.ico', permanent=True)),\n    path('', include('general_page.urls')),\n    path('general_stats', include('general_stats_page.urls')),\n    path('relevance', include('relevance_page.urls')),\n    path('geography', include('geography_page.urls')),\n    path('skills', include('skills_page.urls')),\n    path('latest_vacs', include('latest_vacs_page.urls')),\n]",
+        "detail": "cybersecurity.ulearn_vacs_project.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "cybersecurity.ulearn_vacs_project.wsgi",
+        "description": "cybersecurity.ulearn_vacs_project.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "cybersecurity.ulearn_vacs_project.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "cybersecurity.manage",
+        "description": "cybersecurity.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"ulearn_vacs_project.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "cybersecurity.manage",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def fetch_currency_data(year, month, target_currencies):\n    \"\"\"\n    Получает данные о курсе валют за указанный месяц и год.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        target_currencies (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "get_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def get_currency_rates():\n    \"\"\"\n    Получает курсы валют за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    target_currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    tasks = [(year, month, target_currencies) for year in range(2003, 2026)\n             for month in range(1, 13) if not (year == 2025 and month == 6)]\n    results = {}",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_avg_salary",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def calculate_avg_salary(row, currency_rates):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных о вакансии.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_rates (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_month_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def extract_month_year(date_value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        date_value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(date_value)[:7]\ndef extract_year(date_value):",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def extract_year(date_value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        date_value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(date_value)[:4])\ndef create_html_table(pandas_df):",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def create_html_table(pandas_df):\n    \"\"\"\n    Создает HTML-таблицу на основе данных о зарплатах по годам.\n    Args:\n        pandas_df (pd.DataFrame): DataFrame с данными о средней зарплате по годам.\n    Returns:\n        None\n    \"\"\"\n    pandas_df.columns = [\"Год\", \"Средняя зарплата\"]\n    pandas_df = pandas_df.dropna()",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "process_salary_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "description": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "peekOfCode": "def process_salary_data(df, currency_rates):\n    \"\"\"\n    Обрабатывает данные о зарплатах и создает визуализацию и HTML-таблицу.\n    Args:\n        df (pd.DataFrame): DataFrame с данными о вакансиях.\n        currency_rates (dict): Словарь курсов валют.\n    Returns:\n        None\n    \"\"\"\n    df['date'] = df['published_at'].apply(extract_month_year)",
+        "detail": "scripts.general_stats_page.1 Динамика уровня зарплат по годам.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_date",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "description": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "peekOfCode": "def extract_date(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "description": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef save_html_table(pandas_df):",
+        "detail": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "save_html_table",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "description": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "peekOfCode": "def save_html_table(pandas_df):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет её в файл.\n    Args:\n        pandas_df (pd.DataFrame): DataFrame с данными для таблицы.\n    Returns:\n        None\n    \"\"\"\n    pandas_df = pandas_df.reset_index()  # Преобразуем индекс в столбец\n    pandas_df.columns = [\"Год\", \"Количество вакансий\"]  # Устанавливаем названия столбцов",
+        "detail": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "process_vacancy_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "description": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "peekOfCode": "def process_vacancy_data(dataframe):\n    \"\"\"\n    Обрабатывает данные о вакансиях, создаёт HTML-таблицу и график динамики вакансий по годам.\n    Args:\n        dataframe (pd.DataFrame): DataFrame с данными вакансий.\n    Returns:\n        None\n    \"\"\"\n    df_copy = dataframe.copy()\n    df_copy['date'] = df_copy['published_at'].apply(extract_date)",
+        "detail": "scripts.general_stats_page.2 Динамика количества вакансий по годам.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def fetch_currency_rates(year, month, target_currencies):\n    \"\"\"\n    Получает данные о курсах валют за указанный год и месяц.\n    Args:\n        year (int): Год, за который запрашиваются данные.\n        month (int): Месяц, за который запрашиваются данные.\n        target_currencies (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ в формате 'YYYY-MM' и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def fetch_all_currency_rates():\n    \"\"\"\n    Получает курсы валют за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    target_currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    rates = {}\n    tasks = [(year, month, target_currencies) for year in range(2003, 2025)\n             for month in range(1, 13) if not (year == 2024 and month == 12)]",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_salary",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def calculate_average_salary(row, currency_rates):\n    \"\"\"\n    Рассчитывает среднюю зарплату в рублях.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_rates (dict): Словарь с курсами валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year_month",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def extract_year_month(date_value):\n    \"\"\"\n    Извлекает год и месяц в формате 'YYYY-MM'.\n    Args:\n        date_value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(date_value)[:7]\ndef extract_year(date_value):",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def extract_year(date_value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        date_value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(date_value)[:4])\ndef generate_html_table(dataframe):",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "generate_html_table",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def generate_html_table(dataframe):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет её в файл.\n    Args:\n        dataframe (pd.DataFrame): DataFrame с данными о зарплатах.\n    Returns:\n        None\n    \"\"\"\n    dataframe = dataframe.groupby('area_name', as_index=False)['avg_salary'].mean()\n    dataframe = dataframe.sort_values(by='avg_salary', ascending=False).dropna()",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "process_salary_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "description": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "peekOfCode": "def process_salary_data(dataframe, currency_rates):\n    \"\"\"\n    Обрабатывает данные о зарплатах, строит график и сохраняет HTML-таблицу.\n    Args:\n        dataframe (pd.DataFrame): DataFrame с данными вакансий.\n        currency_rates (dict): Словарь с курсами валют.\n    Returns:\n        None\n    \"\"\"\n    df_copy = dataframe.copy()",
+        "detail": "scripts.general_stats_page.3 Уровень зарплат по городам.Через pandas.3",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def fetch_currency_data(year, month, currency_codes):\n    \"\"\"\n    Получает данные о курсах валют за указанный месяц и год, учитывая номинал.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currency_codes (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ в формате 'YYYY-MM' и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_history",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def fetch_currency_history():\n    \"\"\"\n    Получает исторические данные о курсах валют за период с января 2003 года по ноябрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currency_codes = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    # Генерируем список задач для каждого месяца и года\n    tasks = [(year, month, currency_codes) for year in range(2003, 2025)\n                                         for month in range(1, 13)",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_salary",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def calculate_average_salary(row, currency_table):\n    \"\"\"\n    Рассчитывает среднюю зарплату в рублях на основе данных строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_table (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']  # Минимальная зарплата",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "extract_date_prefix",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def extract_date_prefix(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7] # Извлекаем первые 7 символов\ndef extract_year(value):",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4]) # Извлекаем первые 4 символа\ndef create_html_table(pandas_df):",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def create_html_table(pandas_df):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет её в файл.\n    Args:\n        pandas_df (pd.DataFrame): DataFrame для преобразования.\n    Returns:\n        None\n    \"\"\"\n    pandas_df.columns = [\"Город\", \"Средняя зарплата\"]\n    pandas_df = pandas_df.dropna() # Убираем строки с NaN",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "process_salary_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "description": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "peekOfCode": "def process_salary_data(df, currency_table):\n    \"\"\"\n    Обрабатывает данные о зарплатах и создает HTML и график распределения вакансий.\n    Args:\n        df (pd.DataFrame): DataFrame с данными вакансий.\n        currency_table (dict): Словарь курсов валют.\n    Returns:\n        None\n    \"\"\"\n    df['data'] = df['published_at'].apply(extract_date_prefix) # Извлекаем месяц и год",
+        "detail": "scripts.general_stats_page.4 Доля вакансий по городам.Через pandas.4",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def fetch_currency_data(year, month, currencies):\n    \"\"\"\n    Получает курсы валют за указанный месяц и год, скорректированные по номиналу.\n    Аргументы:\n        year (int): Год, за который нужны данные.\n        month (int): Месяц, за который нужны данные.\n        currencies (list): Список кодов валют для фильтрации.\n    Возвращает:\n        tuple: Ключ в формате 'YYYY-MM' и словарь курсов валют.\n    \"\"\"",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_currencies",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def fetch_all_currencies():\n    \"\"\"\n    Получает курсы валют за период с января 2003 года по ноябрь 2024 года.\n    Возвращает:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    tasks = [(year, month, currencies) for year in range(2003, 2025)\n             for month in range(1, 13) if not (year == 2024 and month == 12)]\n    results = {}",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_salary",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def calculate_average_salary(row, currency_rates):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных строки и курсов валют.\n    Аргументы:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_rates (dict): Словарь курсов валют.\n    Возвращает:\n        float: Средняя зарплата в рублях или NaN, если данных недостаточно.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year_month",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def extract_year_month(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Аргументы:\n        value (str): Полная строка даты.\n    Возвращает:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Аргументы:\n        value (str): Полная строка даты.\n    Возвращает:\n        int: Извлеченный год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_table(dataframe, year):",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def create_html_table(dataframe, year):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет её в файл.\n    Аргументы:\n        dataframe (pd.DataFrame): DataFrame с данными для конвертации в HTML.\n        year (int): Год, для которого создаётся таблица.\n    \"\"\"\n    dataframe.columns = [\"Навык\", \"Частота\"]\n    dataframe = dataframe.dropna()\n    html_content = dataframe.to_html(index=False, border=1,",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "generate_top_skills",
+        "kind": 2,
+        "importPath": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "description": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "peekOfCode": "def generate_top_skills(year, dataframe):\n    \"\"\"\n    Определяет и визуализирует топ-20 навыков за указанный год.\n    Аргументы:\n        year (int): Год для анализа навыков.\n        dataframe (pd.DataFrame): DataFrame с данными о навыках.\n    \"\"\"\n    skills_data = dataframe[(dataframe['year'] == year) & dataframe['key_skills'].notna()]\n    skills = skills_data['key_skills'].str.cat(sep='\\n').split('\\n')\n    skill_counts = Counter(skills)",
+        "detail": "scripts.general_stats_page.5 ТОП-20 навыков по годам.Через pandas.5",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def fetch_currency_data(year, month, currency_codes):\n    \"\"\"\n    Получает данные о курсах валют за указанный месяц и год.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currency_codes (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_currency_data",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def get_all_currency_data():\n    \"\"\"\n    Получает курсы валют из ЦБР за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currency_codes = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    currency_rates = {}\n    tasks = [\n        (year, month, currency_codes)",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_salary",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def calculate_average_salary(row, currency_table):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_table (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN при отсутствии данных.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_month_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def extract_month_year(date):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        date (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(date)[:7]\ndef extract_year(date):",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def extract_year(date):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        date (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(date)[:4])\ndef create_html_table(data_frame):",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "peekOfCode": "def create_html_table(data_frame):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет ее в файл.\n    Args:\n        data_frame (pd.DataFrame): DataFrame с данными для отображения.\n    \"\"\"\n    data_frame = data_frame.dropna()\n    if 'name' in data_frame.columns:\n        data_frame = data_frame.drop(columns=['name'])\n    data_frame.columns = [\"Расположение\", \"Средняя зарплата\"]",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через modin_pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def fetch_currency_data(year, month, currency_codes):\n    \"\"\"\n    Получает данные о курсах валют за указанный месяц и год.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currency_codes (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_currency_data",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def get_all_currency_data():\n    \"\"\"\n    Получает курсы валют из ЦБР за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currency_codes = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    currency_rates = {}\n    tasks = [\n        (year, month, currency_codes)",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_average_salary",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def calculate_average_salary(row, currency_table):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        currency_table (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN при отсутствии данных.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_month_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def extract_month_year(date):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        date (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(date)[:7]\ndef extract_year(date):",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def extract_year(date):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        date (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(date)[:4])\ndef create_html_table(data_frame):",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "description": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "peekOfCode": "def create_html_table(data_frame):\n    \"\"\"\n    Создает HTML-таблицу из DataFrame и сохраняет ее в файл.\n    Args:\n        data_frame (pd.DataFrame): DataFrame с данными для отображения.\n    \"\"\"\n    data_frame = data_frame.dropna()\n    if 'name' in data_frame.columns:\n        data_frame = data_frame.drop(columns=['name'])\n    data_frame.columns = [\"Расположение\", \"Средняя зарплата\"]",
+        "detail": "scripts.geography_page.1 Уровень зарплат по городам для выбранной профессии.Через pandas.1",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def fetch_currency_rates(year, month, currency_codes):\n    \"\"\"\n    Получает курсы валют за указанный месяц и год.\n    Args:\n        year (int): Год.\n        month (int): Месяц.\n        currency_codes (list): Список кодов валют для обработки.\n    Returns:\n        tuple: Ключ в формате 'YYYY-MM' и словарь курсов валют.\n    \"\"\"",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def fetch_all_currency_rates():\n    \"\"\"\n    Получает курсы валют с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currency_codes = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    tasks = [(year, month, currency_codes) for year in range(2003, 2025) for month in range(1, 13)]\n    rates = {}\n    with ThreadPoolExecutor() as executor:",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_avg_salary",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def calculate_avg_salary(row, exchange_rates):\n    \"\"\"\n    Рассчитывает среднюю зарплату в рублях.\n    Args:\n        row (pd.Series): Строка данных.\n        exchange_rates (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "extract_date",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def extract_date(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Дата.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из даты.\n    Args:\n        value (str): Дата.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_report(df):",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_report",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "peekOfCode": "def create_html_report(df):\n    \"\"\"\n    Создает HTML-отчет из DataFrame.\n    Args:\n        df (pd.DataFrame): Данные для отчета.\n    \"\"\"\n    df = df.dropna()\n    if 'name' in df.columns:\n        df = df.drop(columns=['avg_salary'])\n    df.columns = [\"Город\", \"Кол-во вакансий\"]",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через modin_pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def fetch_currency_rates(year, month, currency_codes):\n    \"\"\"\n    Получает курсы валют за указанный месяц и год.\n    Args:\n        year (int): Год.\n        month (int): Месяц.\n        currency_codes (list): Список кодов валют для обработки.\n    Returns:\n        tuple: Ключ в формате 'YYYY-MM' и словарь курсов валют.\n    \"\"\"",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_currency_rates",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def fetch_all_currency_rates():\n    \"\"\"\n    Получает курсы валют с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currency_codes = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    tasks = [(year, month, currency_codes) for year in range(2003, 2025) for month in range(1, 13)]\n    rates = {}\n    with ThreadPoolExecutor() as executor:",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_avg_salary",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def calculate_avg_salary(row, exchange_rates):\n    \"\"\"\n    Рассчитывает среднюю зарплату в рублях.\n    Args:\n        row (pd.Series): Строка данных.\n        exchange_rates (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "extract_date",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def extract_date(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Дата.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из даты.\n    Args:\n        value (str): Дата.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_report(df):",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_report",
+        "kind": 2,
+        "importPath": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "description": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "peekOfCode": "def create_html_report(df):\n    \"\"\"\n    Создает HTML-отчет из DataFrame.\n    Args:\n        df (pd.DataFrame): Данные для отчета.\n    \"\"\"\n    df = df.dropna()\n    if 'name' in df.columns:\n        df = df.drop(columns=['avg_salary'])\n    df.columns = [\"Город\", \"Кол-во вакансий\"]",
+        "detail": "scripts.geography_page.2 Доля вакансий по городам для выбранной профессии.Через pandas.2",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def fetch_currency_data(year, month, currencies):\n    \"\"\"\n    Получает данные о курсе валют за указанный месяц и год, учитывая номинал.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currencies (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_currency",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def get_all_currency():\n    \"\"\"\n    Получает курсы валют из ЦБР за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    result = {}\n    tasks = [(year, month, currencies) for year in range(2003, 2025)\n                                       for month in range(1, 13)",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "avg_salary",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def avg_salary(row, table_curr):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных из строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        table_curr (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "extract",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def extract(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_table(yearly_count):",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "description": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "peekOfCode": "def create_html_table(yearly_count):\n    \"\"\"\n    Создает HTML-таблицу на основе данных.\n    Args:\n        yearly_count (pd.DataFrame): DataFrame.\n    Returns:\n        None\n    \"\"\"\n    # Преобразуем DataFrame Modin в Pandas только для вызова to_html\n    pandas_df = yearly_count._to_pandas()  # Конвертируем в Pandas DataFrame",
+        "detail": "scripts.relevance_page.1 Динамика уровня зарплат по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def fetch_currency_data(year, month, currencies):\n    \"\"\"\n    Получает данные о курсе валют за указанный месяц и год, учитывая номинал.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currencies (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_currency",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def get_all_currency():\n    \"\"\"\n    Получает курсы валют из ЦБР за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    result = {}\n    tasks = [(year, month, currencies) for year in range(2003, 2025)\n                                       for month in range(1, 13)",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "avg_salary",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def avg_salary(row, table_curr):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных из строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        table_curr (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "extract",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def extract(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_table(yearly_count):",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "description": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "peekOfCode": "def create_html_table(yearly_count):\n    \"\"\"\n    Создает HTML-таблицу на основе данных.\n    Args:\n        pandas_df (pd.DataFrame): DataFrame.\n    Returns:\n        None\n    \"\"\"\n    # Преобразуем DataFrame Modin в Pandas только для вызова to_html\n    pandas_df = yearly_count._to_pandas()  # Конвертируем в Pandas DataFrame",
+        "detail": "scripts.relevance_page.2 Динамика количества вакансий по годам для выбранной профессиию",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_currency_data",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def fetch_currency_data(year, month, currencies):\n    \"\"\"\n    Получает данные о курсе валют за указанный месяц и год, учитывая номинал.\n    Args:\n        year (int): Год запроса.\n        month (int): Месяц запроса.\n        currencies (list): Список кодов валют для фильтрации.\n    Returns:\n        tuple: Ключ (строка формата 'YYYY-MM') и словарь с курсами валют.\n    \"\"\"",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_currency",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def get_all_currency():\n    \"\"\"\n    Получает курсы валют из ЦБР за период с января 2003 года по декабрь 2024 года.\n    Returns:\n        dict: Словарь с курсами валют по месяцам.\n    \"\"\"\n    currencies = ['BYR', 'USD', 'EUR', 'KZT', 'UAH', 'AZN', 'KGS', 'UZS', 'GEL']\n    result = {}\n    tasks = [(year, month, currencies) for year in range(2003, 2025)\n                                       for month in range(1, 13)",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "avg_salary",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def avg_salary(row, table_curr):\n    \"\"\"\n    Рассчитывает среднюю зарплату на основе данных из строки DataFrame.\n    Args:\n        row (pd.Series): Строка DataFrame с данными о зарплате.\n        table_curr (dict): Словарь курсов валют.\n    Returns:\n        float: Средняя зарплата в рублях или NaN, если данные отсутствуют.\n    \"\"\"\n    salary_from = row['salary_from']",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "extract",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def extract(value):\n    \"\"\"\n    Извлекает дату в формате 'YYYY-MM'.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        str: Дата в формате 'YYYY-MM'.\n    \"\"\"\n    return str(value)[:7]\ndef extract_year(value):",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "extract_year",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def extract_year(value):\n    \"\"\"\n    Извлекает год из строки даты.\n    Args:\n        value (str): Полное значение даты.\n    Returns:\n        int: Год.\n    \"\"\"\n    return int(str(value)[:4])\ndef create_html_table(yearly_count, year):",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "create_html_table",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def create_html_table(yearly_count, year):\n    \"\"\"Создает HTML-таблицу на основе данных.\"\"\"\n    # Удаляем строки с пропущенными значениями\n    yearly_count = yearly_count.dropna()\n    # Преобразуем DataFrame Modin в Pandas только для вызова to_html\n    # Создаем HTML-таблицу с использованием Pandas\n    html_string = yearly_count._to_pandas().to_html(\n        index=False,  # Отключаем индекс в HTML\n        border=1,\n        classes='table table-dark table-bordered table-hover table-sm',",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    },
+    {
+        "label": "top_skills_analytics",
+        "kind": 2,
+        "importPath": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "description": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "peekOfCode": "def top_skills_analytics(year):\n    all_skills = df_copy[(df_copy['year'] == year) & (df_copy['key_skills'].notna())]\n    all_skills = all_skills['key_skills'].str.cat(sep='\\n').split('\\n')\n    skill_frequency = Counter(all_skills)\n    sorted_dict_desc = dict(sorted(skill_frequency.items(), key=lambda item: item[1], reverse=True))\n    first_20_pairs = dict(islice(sorted_dict_desc.items(), 20))\n    skills_frame = pd.DataFrame.from_dict(first_20_pairs, orient='index').reset_index()\n    skills_frame.columns = ['skill', 'freq']\n    skill = skills_frame.sort_values(by='freq', ascending=True)\n    skills_frame = skills_frame.sort_values(by='freq', ascending=False)",
+        "detail": "scripts.skills_page.ТОП-20 навыков по годам для выбранной профессии",
+        "documentation": {}
+    }
+]
